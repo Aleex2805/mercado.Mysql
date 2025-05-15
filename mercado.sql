@@ -51,22 +51,6 @@ INSERT INTO `clientes` (`id_clientes`, `nome`, `telefone`, `endereco`, `cpf`, `r
 (6, 'Beatriz Souza', 965432109, 'Rua h', 56789012345, 5678901, 'beatriz.souza@email.com', '2025-07-12'),
 (7, 'Ricardo Alves', 923456789, 'Rua f', 67890123456, 6789012, 'ricardo.alves@email.com', '2025-01-30'),
 (8, 'Juliana Rocha', 981234567, 'Rua j', 78901234567, 7890123, 'juliana.rocha@email.com', '2025-08-05'),
-(9, 'Pedro Ferreira', 987654321, 'Rua a', 12345678900, 1234564, 'pedro.ferreira@email.com', '2025-05-06'),
-(10, 'Maria Oliveira', 998765432, 'Rua b', 98765432100, 9876543, 'maria.oliveira@email.com', '2025-04-15'),
-(11, 'Carlos Santos', 923456789, 'Rua c', 23456789012, 2345678, 'carlos.santos@email.com', '2025-03-22'),
-(12, 'Fernanda Lima', 912345678, 'Rua d', 34567890123, 3456789, 'fernanda.lima@email.com', '2025-06-01'),
-(13, 'João Pereira', 934567890, 'Rua g', 45678901234, 4567801, 'joao.pereira@email.com', '2025-02-10'),
-(14, 'Beatriz Souza', 965432109, 'Rua h', 56789012345, 5678901, 'beatriz.souza@email.com', '2025-07-12'),
-(15, 'Ricardo Alves', 923456789, 'Rua f', 67890123456, 6789012, 'ricardo.alves@email.com', '2025-01-30'),
-(16, 'Juliana Rocha', 981234567, 'Rua j', 78901234567, 7890123, 'juliana.rocha@email.com', '2025-08-05'),
-(17, 'Pedro Ferreira', 987654321, 'Rua a', 12345678900, 1234564, 'pedro.ferreira@email.com', '2025-05-06'),
-(18, 'Maria Oliveira', 998765432, 'Rua b', 98765432100, 9876543, 'maria.oliveira@email.com', '2025-04-15'),
-(19, 'Carlos Santos', 923456789, 'Rua c', 23456789012, 2345678, 'carlos.santos@email.com', '2025-03-22'),
-(20, 'Fernanda Lima', 912345678, 'Rua d', 34567890123, 3456789, 'fernanda.lima@email.com', '2025-06-01'),
-(21, 'João Pereira', 934567890, 'Rua g', 45678901234, 4567801, 'joao.pereira@email.com', '2025-02-10'),
-(22, 'Beatriz Souza', 965432109, 'Rua h', 56789012345, 5678901, 'beatriz.souza@email.com', '2025-07-12'),
-(23, 'Ricardo Alves', 923456789, 'Rua f', 67890123456, 6789012, 'ricardo.alves@email.com', '2025-01-30'),
-(24, 'Juliana Rocha', 981234567, 'Rua j', 78901234567, 7890123, 'juliana.rocha@email.com', '2025-08-05');
 
 -- --------------------------------------------------------
 
